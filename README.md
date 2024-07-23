@@ -1,3 +1,7 @@
+```{r, echo=FALSE, out.width="433px", fig.align="center"}
+knitr::include_graphics("man/figures/mt-logo-workmark.png")
+```
+
 # Mother Tree Project Graphics
 Part of the Mother Tree Project (MTP) at the University of British Columbia (UBC). 
 
