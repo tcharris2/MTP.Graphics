@@ -1,14 +1,17 @@
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+<img src="man/figures/mt-logo-workmark.png" width="433px" style="display: block; margin: auto;" />
+
 # MTP.Graphics
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of MTP.Graphics is to ...
+A package containing helper functions for the devlopment of graphics for
+the MTP
 
 ## Installation
 
-You can install the development version of MTP.Graphics from [GitHub](https://github.com/) with:
+You can install the development version of MTP.Graphics from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -23,4 +26,3 @@ This is a basic example which shows you how to solve a common problem:
 library(MTP.Graphics)
 ## basic example code
 ```
-
