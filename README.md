@@ -1,19 +1,26 @@
-```{r, echo=FALSE, out.width="433px", fig.align="center"}
-knitr::include_graphics("man/figures/mt-logo-workmark.png")
-```
 
-# Mother Tree Project Graphics
-Part of the Mother Tree Project (MTP) at the University of British Columbia (UBC). 
+# MTP.Graphics
 
-Author: Thomson Harris
+<!-- badges: start -->
+<!-- badges: end -->
 
-# Purpose:
-A package with helper functions for creating graphics as a part of the Mother Tree Project
+The goal of MTP.Graphics is to ...
 
 ## Installation
 
-You can install the development version from [GitHub](https://github.com/tcharris2/MTP.Graphics) with:
+You can install the development version of MTP.Graphics from [GitHub](https://github.com/) with:
 
 ``` r
-remotes::install_github("tcharris2/MTP.Graphics")
+# install.packages("devtools")
+devtools::install_github("tcharris2/MTP.Graphics")
 ```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(MTP.Graphics)
+## basic example code
+```
+
