@@ -5,3 +5,11 @@ Author: Thomson Harris
 
 # Purpose:
 A package with helper functions for creating graphics as a part of the Mother Tree Project
+
+## Installation
+
+You can install the development version from [GitHub](https://github.com/tcharris2/MTP.Graphics) with:
+
+``` r
+remotes::install_github("tcharris2/MTP.Graphics")
+```
