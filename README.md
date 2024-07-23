@@ -6,7 +6,7 @@
 # MTP.Graphics
 
 A package containing helper functions for the devlopment of graphics for
-the MTP
+the Mother Tree Project (MTP)
 
 ## Installation
 

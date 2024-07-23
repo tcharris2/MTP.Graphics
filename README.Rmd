@@ -11,7 +11,7 @@ knitr::include_graphics("man/figures/mt-logo-workmark.png")
 
 # MTP.Graphics
 
-A package containing helper functions for the devlopment of graphics for the MTP
+A package containing helper functions for the devlopment of graphics for the Mother Tree Project (MTP)
 
 ## Installation
 
